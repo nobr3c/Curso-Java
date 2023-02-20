@@ -109,7 +109,9 @@ Várias tecnologias instaladas na sua máquina podem ser usadas pelo terminal, c
 Esses outros comandos variam de tecnologia para tecnologia, de versão para versão, então não irei dar tantos exemplos aqui. Mas sempre que você instalar uma nova tecnologia, é bom verificar quais comandos podem ser usados no terminal.
 
 Nesses dois sites existem alguns links com vários comandos e dicas que você pode usar no terminal:
+
 <https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/> 
+
 <https://www.guru99.com/linux-commands-cheat-sheet.html/>
 
 Esse pequeno guia é apenas um compilado de pequenas dicas para pessoas que tiveram pouco ou nenhum contato com o terminal no MacOS e Linux consigam lidar de forma mais efetiva com essa ferramenta tão importante. E que também tenham menos medo dele! Espero ter ajudado.
