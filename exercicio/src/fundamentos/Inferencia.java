@@ -21,7 +21,7 @@ public class Inferencia {
 		
 		double d; //variável foi declarada 
 		d = 123.65; //variável foi inicializada
-		System.out.println(a); //usada
+		System.out.println(d); //usada
 
 		var e = 123.45;
 		System.out.println(e);

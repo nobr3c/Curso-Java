@@ -40,5 +40,10 @@ System.out.println("Olá pessoal".charAt(2));
 		String frase = String.format("\n\nO senhor %s %s tem %d anos e ganha R$: %.2f.",
 				nome, sobrenome, idade, salario);
 		System.out.println(frase);
+		
+		System.out.println("Frase qualquer".contains("qual"));
+		System.out.println("Frase qualquer".indexOf("qual"));
+		System.out.println("Frase qualquer".substring(6));
+		System.out.println("Frase qualquer".substring(6,10));
 	}
 }
