@@ -18,7 +18,7 @@ public class Relacionais {
 		double nota = 9.9;
 		boolean bomComportamento = false;
 		boolean passouPorMedia = nota >= 7;
-		boolean temDesconto = bomComportamento && passouPorMedia;
+		boolean temDesconto = bomComportamento && nota >= 7;
 		
 		System.out.println("Tem desconto ?" + temDesconto);
 	}
