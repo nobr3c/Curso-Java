@@ -7,7 +7,7 @@ public class Exercicio05 {
 	public static void main(String[] args) {
 		
 		System.out.println("Exercícios: Conceitos Básicos");
-		System.out.println("5 - Criar um programa que leia o valor da base e da altura de um triângulo e calcule a área.");
+		System.out.println("5 - Criar um programa que leia o valor da base e da altura de um triângulo e calcule a área.\n");
 		
 		Scanner entrada = new Scanner(System.in);
 	    

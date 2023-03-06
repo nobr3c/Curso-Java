@@ -7,7 +7,7 @@ public class Exercicios04 {
 	public static void main(String[] args) {
 		
 		System.out.println("Exercícios: Conceitos Básicos");
-		System.out.println("4 - Criar um programa que leia um valor e apresente os resultados ao quadrado e ao cubo do valor.");
+		System.out.println("4 - Criar um programa que leia um valor e apresente os resultados ao quadrado e ao cubo do valor.\n");
 		
 		Scanner entrada  = new Scanner(System.in);
 		
